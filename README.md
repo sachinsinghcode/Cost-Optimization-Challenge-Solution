@@ -15,7 +15,7 @@ Assuming Data is 3 Year old and write speed is constant over the Years
 Last 3 months Active Data = 10% of total data = ~60GBs
 Data to be archived/cooled = 90% of the data = ~540GBs
 
-### 💵 Cosmos DB Monthly Cost: With vs Without Archiving
+### Cosmos DB Monthly Cost: With vs Without Archiving
 
 | Scenario                      | Storage Used | Cosmos DB Storage Cost - 0.25$/GB | RU/s Provisioned - 0.008$/hour | RU/s Cost | **Total Monthly Cost** |
 |------------------------------|--------------|-------------------------|------------------|-----------|-------------------------|
